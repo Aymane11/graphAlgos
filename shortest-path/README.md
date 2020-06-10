@@ -7,8 +7,7 @@
 - Games
 
 ## Dijkstra
-
-![Dijkstra](https://github.com/Aymane11/graphAlgos/blob/master/shortest-path/dijkstra.gif)
+<img src="https://i.imgur.com/ZcfGmdz.gif" width="250" title="Dijkstra">
 
 #### Pseudocode
 ###### Using priority queue
@@ -31,7 +30,8 @@ Dijkstra(graph,source):
 
 ## Bellman-Ford
 
-![BF](https://github.com/Aymane11/graphAlgos/blob/master/shortest-path/BF.gif)
+<img src="https://github.com/Aymane11/graphAlgos/blob/master/shortest-path/BF.gif?raw=true" width="250" title="Bellman-Ford">
+
 
 #### Pseudocode
 ```C
