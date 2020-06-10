@@ -7,7 +7,7 @@
 - Games
 
 ## Dijkstra
-<img src="https://i.imgur.com/ZcfGmdz.gif" width="250" title="Dijkstra">
+<img src="https://github.com/Aymane11/graphAlgos/blob/master/shortest-path/dijkstra.gif?raw=true" width="250" title="Dijkstra">
 
 #### Pseudocode
 ###### Using priority queue
