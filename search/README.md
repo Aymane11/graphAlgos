@@ -7,7 +7,7 @@
 ## BFS (Breadth First Search)
 > Can also be used to find shortest path
 
-![Dijkstra](https://github.com/Aymane11/graphAlgos/blob/master/search/BFS.gif)
+<img src="https://github.com/Aymane11/graphAlgos/blob/master/search/BFS.gif?raw=true" width="250" title="Bellman-Ford">
 
 #### Pseudocode
 ```C
