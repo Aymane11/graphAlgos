@@ -4,8 +4,8 @@ Some graph algorithms (Search , Shortest path ...) implemented in python.
 ---
 
 ### Content
- -[Search](https://github.com/Aymane11/graphAlgos/tree/master/search)
- -[Shortest Path](https://github.com/Aymane11/graphAlgos/tree/master/shortest-path)
+ - [Search](https://github.com/Aymane11/graphAlgos/tree/master/search)
+ - [Shortest Path](https://github.com/Aymane11/graphAlgos/tree/master/shortest-path)
 
 ### Requirements
 
@@ -25,7 +25,7 @@ For other Linux flavors, macOS and Windows, packages are available [here](https:
 ### TODO
 
 - [ ] Add random graph generator
-- [ ] Add explanation `.md` files for each algorithm
+- [X] Add explanation `.md` files for each algorithm
 - [ ] Add tests
 - [ ] Create a GUI to visualize the algorithms
 

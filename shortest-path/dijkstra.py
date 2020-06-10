@@ -31,20 +31,6 @@ class weighted_Graph:
         PQ.put((self.distance(frm,to),to))
     
     def dijkstra(self,start):
-        """
-        Dijkstra(graph,source):
-            Initialize distances of all vertices as infinite.
-            Create an empty priority queue pq. Every item of pq is a pair (weight, vertex).
-            Insert source vertex into pq and make its distance as 0.
-            While either pq doesn't become empty
-                Extract minimum distance vertex from pq, name it u
-                For every vertex v adjacent of u do
-                    If dist[v] > dist[u] + weight(u, v)
-                        dist[v] = dist[u] + weight(u, v)
-                        Insert v into the pq (Even if v is already there)
-                        parent of v is u
-            Print distance array dist[] to print all shortest paths.
-        """        
         dist = [inf] * len(self.graph)
         parent = [-1] * len(self.graph)
         pq = PriorityQueue()

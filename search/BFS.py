@@ -49,7 +49,7 @@ def main():
     G.addEdge(2, 3)
     G.addEdge(3, 3)
 
-    print(G)
+    print(G.graph)
 
     G.BFS(2) #2 0 3 1
 
